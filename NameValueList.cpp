@@ -3,7 +3,7 @@
  *  Copyright 2021 Riya Singh
  */
 
-//The purpose of this program is to find the value of x in quadratic equation.
+//The purpose of this program is to add names and values to the list.
 
 #include <iostream> //allows program to perform input and output
 #include <string> //allows program to work with strings
